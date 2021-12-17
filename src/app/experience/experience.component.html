@@ -1,0 +1,17 @@
+<div class="container resume">
+    <div class="section-title">
+        <h2>Experinece</h2>
+    </div>
+    <div class="">
+        <h3 class="resume-title">Professional Experience</h3>
+        <div class="resume-item" *ngFor="let job of jobList">
+            <h4>{{job.designation}}</h4>
+            <h5>{{job.startYear}} - {{job.currentJob == true ? 'Present' : job.endYear}}</h5>
+            <p><em>{{job.company}}, {{job.location}}</em></p>
+            <p>
+            <ul>
+                <li *ngFor="let point of job.description">{{point}}</li>
+            </ul>
+        </div>
+    </div>
+</div>

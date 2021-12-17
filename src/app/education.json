@@ -1,0 +1,31 @@
+{
+    "education": [
+        {
+            "college": "Government Polytechnic, Vijayawada",
+            "board": "State Board of Technical Education and Training, A.P",
+            "location": "Vijayawada, Andhra Pradesh",
+            "degree": "Diploma",
+            "specialization": "Electronics and Communication Engineering",
+            "startYear": 2015,
+            "endYear": 2018,
+            "highestQualification": true,
+            "currentlyEnrolled": false,
+            "description": [
+                "Developed a mobile app operated home appliances control system with an ESP8266 module",
+                "Lead a team in developing the Visitor counter-based home-automation system with Arduino."
+            ]
+        },
+        {
+            "college": "Birla Institute of Technology and Sciences - WILP",
+            "board": "Birla Institute of Technology and Sciences",
+            "location": "Pilani",
+            "degree": "B.Tech",
+            "specialization": "Engineering Technology",
+            "startYear": 2021,
+            "endYear": 0,
+            "highestQualification": true,
+            "currentlyEnrolled": true,
+            "description": null
+        }
+    ]
+}

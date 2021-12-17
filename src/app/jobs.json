@@ -1,0 +1,18 @@
+{
+    "jobs": [
+        {
+            "company": "L&T Technology Services",
+            "location": "Mysore, Karnataka",
+            "designation": "Associate Engineer",
+            "startYear": 2019,
+            "endYear": 0,
+            "currentJob": true,
+            "description": [
+                "Involved in the Software Development and implementation of code complying to standards.",
+                "Achieved the requirements with collaboration with teams across time-zones.",
+                "Mentored Trainees, and instructing new personnel on applicable guidelines and techniques.",
+                "Achieved improvement in Code quality by implementing a tool to track defects and addressing them."
+            ]
+        }
+    ]
+}
